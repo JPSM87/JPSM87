@@ -1,4 +1,4 @@
-## Hola, soy [Juan Pablo Silva Martínez] 👋
+## Hola, soy Juan Pablo Silva Martínez, pero me puedes decir JP 👋
 
 ### Sobre mí
 ¡Hola! Soy un QA apasionado por la tecnología y la programación. Desde siempre me ha fascinado cómo funcionan las cosas por detrás, y por eso me dedico a asegurarme de que todo marche a la perfección. Me encanta aprender nuevas tecnologías y compartir mis conocimientos con la comunidad.
@@ -26,8 +26,8 @@ Me considero una persona curiosa y siempre estoy buscando nuevas formas de mejor
 - [Correo electrónico](mailto:jpsm87@outlook.com)
 
 ### 💼 Proyectos Destacados
-- [Proyecto 1](https://github.com/JPSM87/qa-project-Urban-Grocers-app-es ): Breve descripción del proyecto 1.
-- [Proyecto 2](https://github.com/JPSM87/api_stand_test): Breve descripción del proyecto 2.
+- [Proyecto 1](https://github.com/JPSM87/qa-project-Urban-Grocers-app-es ): Automatización de prueba para creación de kits dentro de nuevos usuarios en python/pytest.
+- [Proyecto 2](https://github.com/JPSM87/api_stand_test): Desarrollo de test en python utilizando pytest.
 
 ### 🌱 En qué estoy trabajando actualmente
 Actualmente estoy trabajando en proyectos relacionados con el desarrollo web y la inteligencia artificial. Siempre estoy buscando nuevas oportunidades para aprender y crecer profesionalmente.
