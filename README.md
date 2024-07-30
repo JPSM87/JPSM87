@@ -1,4 +1,4 @@
-## Hola, soy [Tu Nombre] 👋
+## Hola, soy [Juan Pablo Silva Martínez] 👋
 
 ### Sobre mí
 ¡Hola! Soy un QA apasionado por la tecnología y la programación. Desde siempre me ha fascinado cómo funcionan las cosas por detrás, y por eso me dedico a asegurarme de que todo marche a la perfección. Me encanta aprender nuevas tecnologías y compartir mis conocimientos con la comunidad.
