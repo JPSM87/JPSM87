@@ -22,8 +22,8 @@ Me considero una persona curiosa y siempre estoy buscando nuevas formas de mejor
 ![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=JPSM87&layout=compact&theme=radical)
 
 ### 📫 Cómo contactarme
-- [LinkedIn](https://www.linkedin.com/in/JPSM87)
-- [Correo electrónico](mailto:jpsm87@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/JPSM87)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jpsm87@outlook.com)
 
 ### 💼 Proyectos Destacados
 - [Proyecto 1](https://github.com/JPSM87/qa-project-Urban-Grocers-app-es ): Automatización de prueba para creación de kits dentro de nuevos usuarios en python/pytest.
@@ -66,8 +66,8 @@ I consider myself a curious person, always seeking new ways to improve my skills
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JPSM87&layout=compact&theme=radical)
 
 ### 📫 How to reach me
-- [LinkedIn](https://www.linkedin.com/in/JPSM87)
-- [Email](mailto:jpsm87@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/JPSM87)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jpsm87@outlook.com)
 
 ### 💼 Featured Projects
 - [Project 1](https://github.com/JPSM87/qa-project-Urban-Grocers-app-es): Test automation for creating kits within new users in Python/pytest.
