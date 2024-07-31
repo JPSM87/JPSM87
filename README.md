@@ -43,3 +43,47 @@ Actualmente estoy trabajando en proyectos relacionados con el desarrollo web y l
 ---
 
 [Mi portafolio](https://drive.google.com/drive/folders/1dgL0WKoE7OrqX5FeA7M6Yh39p-NAxo6g?usp=sharing)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Hi, I'm Juan Pablo Silva Martínez, but you can call me JP 👋
+
+### About Me
+Hi there! I'm a QA passionate about technology and programming. I've always been fascinated by how things work behind the scenes, and that's why I dedicate myself to ensuring everything runs perfectly. I love learning new technologies and sharing my knowledge with the community.
+
+I consider myself a curious person, always seeking new ways to improve my skills and knowledge. I love working in teams and collaborating with others to solve complex problems. I especially enjoy the challenge of finding and fixing software bugs, ensuring end users have the best experience possible.
+
+### 🚀 Skills and Technologies
+- **Agile Methodologies:** Scrum, Kanban
+- **Project Management:** Trello, Microsoft Planner, JIRA
+- **Software Testing:** Manual testing, UI testing, mobile application testing
+- **Requirements Analysis:** Test design, test cases, checklists
+- **Testing Tools:** Postman, Android Studio
+- **Databases:** SQL, data management, SQL statements (adding, sorting, grouping, joining tables)
+- **CLI (Command Line Interface):** Navigation and management of remote servers
+- **Bug Tracking:** JIRA, creating detailed bug reports
+
+### 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JPSM87&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JPSM87&layout=compact&theme=radical)
+
+### 📫 How to reach me
+- [LinkedIn](https://www.linkedin.com/in/JPSM87)
+- [Email](mailto:jpsm87@outlook.com)
+
+### 💼 Featured Projects
+- [Project 1](https://github.com/JPSM87/qa-project-Urban-Grocers-app-es): Test automation for creating kits within new users in Python/pytest.
+- [Project 2](https://github.com/JPSM87/api_stand_test): Test development in Python using pytest.
+
+### 🌱 What I'm currently working on
+I'm currently working on projects related to web development and artificial intelligence. I'm always looking for new opportunities to learn and grow professionally.
+
+### 🎓 Education
+- **QA Engineer**, TripleTen latAm (2024)
+- **Agricultural Engineer**, Universidad Tarapacá (2010-2017)
+
+---
+
+Thanks for visiting my profile! Feel free to reach out to discuss projects, collaborations, or anything tech-related.
+
+---
+
+[My Portfolio](https://drive.google.com/drive/folders/1dgL0WKoE7OrqX5FeA7M6Yh39p-NAxo6g?usp=sharing)
