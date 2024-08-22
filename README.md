@@ -28,6 +28,7 @@ Me considero una persona curiosa y siempre estoy buscando nuevas formas de mejor
 ### 💼 Proyectos Destacados
 - [Proyecto 1](https://github.com/JPSM87/qa-project-Urban-Grocers-app-es ): Automatización de prueba para creación de kits dentro de nuevos usuarios en python/pytest.
 - [Proyecto 2](https://github.com/JPSM87/api_stand_test): Desarrollo de test en python utilizando pytest.
+- [Proyecto 3](https://github.com/JPSM87/qa-project-Urban-Routes-es): Desarrollo de automatización en python con Selenium WebDriver.
 
 ### 🌱 En qué estoy trabajando actualmente
 Actualmente estoy trabajando en proyectos relacionados con el desarrollo web y la inteligencia artificial. Siempre estoy buscando nuevas oportunidades para aprender y crecer profesionalmente.
