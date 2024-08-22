@@ -31,9 +31,10 @@ Me considero una persona curiosa y siempre estoy buscando nuevas formas de mejor
 - [Proyecto 3](https://github.com/JPSM87/qa-project-Urban-Routes-es): Desarrollo de automatización en python con Selenium WebDriver.
 
 ### 🌱 En qué estoy trabajando actualmente
-Actualmente estoy trabajando en proyectos relacionados con el desarrollo web y la inteligencia artificial. Siempre estoy buscando nuevas oportunidades para aprender y crecer profesionalmente.
+Actualmente estoy trabajando en proyectos relacionados con el desarrollo web y la automatización de pruebas. Además iempre estoy buscando nuevas oportunidades para aprender y crecer profesionalmente.
 
 ### 🎓 Educación
+- **Data Analyst**, Coursera/Google (2024)
 - **QA Engineer**, TripleTen latAm0(2024)
 - **Ingeniero Agrónomo**, Universidad Tarapacá (2010-2017)
 
@@ -73,11 +74,13 @@ I consider myself a curious person, always seeking new ways to improve my skills
 ### 💼 Featured Projects
 - [Project 1](https://github.com/JPSM87/qa-project-Urban-Grocers-app-es): Test automation for creating kits within new users in Python/pytest.
 - [Project 2](https://github.com/JPSM87/api_stand_test): Test development in Python using pytest.
+- [Project 3](https://github.com/JPSM87/qa-project-Urban-Routes-es): Test automation with Python/Selenium WebDriver for order a taxi.
 
 ### 🌱 What I'm currently working on
-I'm currently working on projects related to web development and artificial intelligence. I'm always looking for new opportunities to learn and grow professionally.
+I'm currently working on projects related to web development and automation testing. I'm always looking for new opportunities to learn and grow professionally.
 
 ### 🎓 Education
+- **Data Analyst**, Coursera/Google (2024)
 - **QA Engineer**, TripleTen latAm (2024)
 - **Agricultural Engineer**, Universidad Tarapacá (2010-2017)
 
